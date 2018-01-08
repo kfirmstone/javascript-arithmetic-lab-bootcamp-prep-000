@@ -11,10 +11,10 @@ function divide(){
   a/b
 }
 function inc(n){
-  n+1
+  "n"+1
 }
 function dec(n){
-  n-1
+  "n"-1
 }
 function makeInt(n){
   parseInt(n,10)
