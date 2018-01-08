@@ -1,5 +1,5 @@
 function add(){
- 
+ var a, b
   a+b
 }
 function subtract(){
@@ -22,6 +22,4 @@ function makeInt(n){
 }
 function preserveDecimal(n){
   parseFloat(n,10)
-}
-}
 }
