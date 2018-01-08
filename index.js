@@ -1,9 +1,7 @@
 function add(){
- var a, b
   a+b
 }
 function subtract(){
-  var a, b
   a-b
 }
 function multiply(){
